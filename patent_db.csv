@@ -1,0 +1,11 @@
+smiles,patent_id,title,abstract,url,year
+CCO,US12345A,Example Patent A,"Simple ethanol derivative patent",http://example.com/1,2015
+CCN,US23456B,Example Patent B,"Amine containing compound patent",http://example.com/2,2016
+C1=CC=CC=C1O,US34567C,Example Patent C,"Phenol derivative patent",http://example.com/3,2018
+CCCC,US45678D,Example Patent D,"Butane derivative",http://example.com/4,2014
+C1=CC=CC=C1N,US56789E,Example Patent E,"Aniline type patent",http://example.com/5,2019
+CCOC(=O)C,US67890F,Example Patent F,"Ester compound",http://example.com/6,2013
+CC(=O)O,US78901G,Example Patent G,"Acetic acid derivative",http://example.com/7,2017
+CCC(=O)O,US89012H,Example Patent H,"Propionic acid patent",http://example.com/8,2012
+CNC(=O)C,US90123I,Example Patent I,"Carbamate related",http://example.com/9,2011
+C1CCCCC1,US01234J,Example Patent J,"Cyclohexane family",http://example.com/10,2010
